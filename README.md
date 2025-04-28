@@ -3,7 +3,7 @@ Building AI course
 
 # NovelChat: A Character-Aware Chatbot Trained on Novels
 
-## 📝 Summary
+## Summary
 
 **NovelChat** is an AI-powered chatbot that mimics the unique speech patterns of fictional characters from novels. By analyzing character-specific dialogue from a book, it creates an immersive chat experience where users can interact with their favorite literary personas. This project enhances reader engagement, supports educational applications, and explores the intersection of natural language processing and creative storytelling.
 
